@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/smu-202115064/Training-project-for-AI-X-Pioneers-Basic-DATA
+	branch = main
