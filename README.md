@@ -1,5 +1,19 @@
 # 관객 호응도 기반 반응형 응원봉 서비스
 
+<details>
+<summary><a href="./data/"><code>/data</code></a> 디렉토리 불러오는 법</summary>
+<br>
+<blockquote>
+
+```shell
+# 레포지토리를 클론한 이후, 터미널에서 아래의 두 명령을 수행
+git submodule init
+git submodule update --remote
+```
+
+</blockquote>
+</details>
+
 ## 1. 제안 대상 설정
 
 ### 1.1. 기업 중심
