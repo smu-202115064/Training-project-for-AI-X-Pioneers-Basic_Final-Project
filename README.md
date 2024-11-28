@@ -152,7 +152,7 @@
 
 ##### 3.2.2.1. 매출 추이
 
-2019 - 2021 "[K팝 음반 이외 주요 상품 매출 추이(notebooks/K팝 음반 이외 주요 상품 매출 추이.ipynb)]"는 아래와 같다.
+2019 - 2021 "[K팝 음반 이외 주요 상품 매출 추이](notebooks/K팝%20음반%20이외%20주요%20상품%20매출%20추이.ipynb)"는 아래와 같다.
 
 ![K팝 음반 이외 주요 상품 매출 추이](https://github.com/user-attachments/assets/f9ca20b7-8a6d-44dc-bd6b-0803e746e691)
 ![K팝 음반 이외 주요 상품 매출 추이](https://github.com/user-attachments/assets/2ae0b6c4-34e4-4779-8e88-a28d5e694d62)
