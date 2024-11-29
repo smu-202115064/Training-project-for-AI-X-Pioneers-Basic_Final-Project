@@ -9,7 +9,7 @@ import pandas as pd
 import seaborn as sns
 
 
-sns.set_palette('Paired')
+sns.set_palette('Set2')
 sns.set_style('whitegrid')
 
 plt.rcParams['font.family'] = 'D2Coding'
