@@ -7,6 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
+import requests
 
 
 sns.set_palette('Set2')
@@ -21,6 +22,12 @@ BASE_DIR = pathlib.Path(__file__).resolve().parent.parent.parent
 
 T_TICKS = typing.Union[typing.List[str], typing.List[int], typing.List[float]]
 T_LABELS = typing.List[str]
+
+
+def get_json(url: str) -> dict:
+    response = requests.get(url)
+    response.raise_for_status()
+    return response.json()
 
 
 def get_files(glob_pattern: str) -> typing.List[str]:
